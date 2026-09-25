@@ -18,7 +18,7 @@ Je suis passionné(e) par le développement de logiciels et je suis constamment 
 
 - [OpsPilot](https://github.com/lodavid38600/OpsPilot-Project) - Application Java / Angular de coordination des opérations terrain : checklist sécurité obligatoire, gestion des incidents et journal des actions (Spring Boot, JWT, PostgreSQL, Angular 21)
 - [Projet 2](https://github.com/lodavid38600/Chargeon) - Application client lourd de gestion des bornes de recharge
-- [Miette](https://github.com/lodavid38600/MietteAI) - Un micro-LLM français codé de zéro et entraîné dans le navigateur, sur le GPU (WebGPU) · [démo](https://lodavid38600.github.io/miette/)
+- [Miette](https://github.com/lodavid38600/MietteAI) - Un micro-LLM français codé de zéro et entraîné dans le navigateur, sur le GPU (WebGPU) · [démo](https://lodavid38600.github.io/MietteAI)
 
 ## Contactez-moi
 
